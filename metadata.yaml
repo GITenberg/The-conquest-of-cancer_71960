@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56474'
     url: http://www.gutenberg.org/2009/agents/56474
     wikipedia: https://en.wikipedia.org/wiki/Francis_Graham_Crookshank
+covers:
+- cover_type: archival
+  image_path: 71960-h/images/cover.jpg
 creator:
   author:
     agent_name: Wright, H. W. S. (Henry Wardel Snarey)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '56473'
     url: http://www.gutenberg.org/2009/agents/56473
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71960#The-conquest-of-cancer
 gutenberg_issued: '2023-10-25'
 identifiers:
   gutenberg: '71960'
